@@ -11,6 +11,7 @@ body {
     overflow: auto;
     background-color: rgb(175, 178, 180);
     padding: 10px;
+    line-height: normal;
 }
 .besar{
     width: 500px;
